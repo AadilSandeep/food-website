@@ -1,7 +1,7 @@
 # 🍕 PizZa Website
 
 A modern pizza-themed landing page built using pure HTML and CSS. This project was created as a front-end practice project to explore responsive layouts, navigation menus, section-based website design, and basic JavaScript interactions.
-
+-------------
 ## 📖 Overview
 
 **PizZa** is a simple promotional website that introduces users to a fictional pizza and Italian cuisine service. The website highlights featured menu choices, provides information about the service, and demonstrates a clean restaurant-style landing page design.
